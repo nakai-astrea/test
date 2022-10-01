@@ -2,4 +2,4 @@ def say(word)
   puts word
 end
 
-say(gets.chomp)
+say("これはテストです")
